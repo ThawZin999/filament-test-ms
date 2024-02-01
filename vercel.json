@@ -17,6 +17,7 @@
     "APP_ENV": "production",
     "APP_DEBUG": "false",
     "APP_URL": "https://filament-test-ms.vercel.app",
+    "ASSET_URL": "${APP_URL}",
     "VERCEL_DEMO_MODE": "true",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",

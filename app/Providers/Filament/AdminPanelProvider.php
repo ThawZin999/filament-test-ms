@@ -29,7 +29,6 @@ class AdminPanelProvider extends PanelProvider
             ->login()
             ->registration()
             ->profile()
-            ->spa()
             ->colors([
                 'gray' => Color::Slate,
             ])
